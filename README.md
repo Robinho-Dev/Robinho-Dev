@@ -16,6 +16,6 @@ e iniciando o aprendizado em:
 <br>
 <br>
 <p>Redes Sociais</p>
-<a href="https://www.linkedin.com/in/robinson-barreto-82931a250/"> 
+<a href="https://www.instagram.com/robinhobarreto853/" > 
 <br><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-<a> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/robinson-barreto-82931a250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
