@@ -19,3 +19,8 @@ e iniciando o aprendizado em:
 <a href="https://www.instagram.com/robinhobarreto853/" > 
 <br><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/robinson-barreto-82931a250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
+[![Robinho stats](https://github-readme-stats.vercel.app/api?username=Robinho-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robinho-Dev)](https://github.com/anuraghazra/github-readme-stats)
